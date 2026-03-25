@@ -1,0 +1,10 @@
+# create .gitignore file and add these lines:
+.env
+__pycache__/
+*.pyc
+mlruns/
+models/
+data/raw/
+.ipynb_checkpoints/
+venv/
+.DS_Store

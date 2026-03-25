@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/nkar9/OneDrive/Desktop/financial-sentiment-predictor/financial-sentiment-predictor/mlruns/1/models/m-45fc9ca6af2d4c9b936e57489d7c8542/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.2
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.10.1
+model_id: m-45fc9ca6af2d4c9b936e57489d7c8542
+model_size_bytes: 279904
+model_uuid: m-45fc9ca6af2d4c9b936e57489d7c8542
+prompts: null
+run_id: 9258f391fc034f03b5b274414c920ba5
+utc_time_created: '2026-03-25 04:32:41.904778'
