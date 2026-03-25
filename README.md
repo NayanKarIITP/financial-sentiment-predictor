@@ -259,4 +259,5 @@ This project is for educational and portfolio purposes only. It is not financial
 
 ---
 
-*Built as a Data Science portfolio project demonstrating NLP + Classical ML + MLOps skills.*
+*Built as a Data Science portfolio project demonstrating NLP + Classical ML + MLOps skills.*#   f i n a n c i a l - s e n t i m e n t - p r e d i c t o r  
+ 
